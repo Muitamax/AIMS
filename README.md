@@ -122,6 +122,7 @@ Ensure your SMTP server is properly configured and SPF/DKIM/DMARC records are se
 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
-📄 License
 
+
+📄 License
 This project is licensed under the MIT License.
